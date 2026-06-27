@@ -45,4 +45,4 @@ The ER diagram shows the relationship between the three tables: Books, Members, 
 * One book can have many borrowings.
 * The Borrowings table connects Members and Books using foreign keys.
 
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](ER_Diagram)
