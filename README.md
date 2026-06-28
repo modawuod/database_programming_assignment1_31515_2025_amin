@@ -37,6 +37,9 @@ This project demonstrates the use of Common Table Expressions (CTEs) and SQL Win
 * NTILE()
 * CUME_DIST()
 
+## Analysis
+
+This project demonstrates how SQL Common Table Expressions (CTEs) and Window Functions can be used in a Library Management System. The CTEs simplify complex queries, while Window Functions help analyze borrowing records, rank fines, calculate cumulative values, and generate useful reports. These SQL techniques improve data analysis and support better library management decisions.
 ## ER Diagram
 
 The ER diagram shows the relationship between the three tables: Books, Members, and Borrowings.
